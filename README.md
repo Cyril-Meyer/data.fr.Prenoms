@@ -27,5 +27,26 @@ Pour chaque année de 1900 (inclus) à 2020 (inclus) :
 
 # Visualisation
 ## 1
+
+<iframe src="top_prenom_1.html" width="100%" height="400" scrolling="no" style="border:none;">top_prenom_1</iframe>
+[plein écran](top_prenom_1.html)
+
+
+<iframe src="top_prenom_2.html" width="100%" height="400" scrolling="no" style="border:none;">top_prenom_2</iframe>
+[plein écran](top_prenom_2.html)
+
+
 ## 2
+
+<iframe src="nombre_prenom.html" width="100%" height="400" scrolling="no" style="border:none;">nombre_prenom</iframe>
+[plein écran](nombre_prenom.html)
+
+
 ## 3
+
+<iframe src="affectation_mean.html" width="100%" height="400" scrolling="no" style="border:none;">affectation_mean</iframe>
+[plein écran](affectation_mean.html)
+
+
+<iframe src="affectation_std.html" width="100%" height="400" scrolling="no" style="border:none;">affectation_std</iframe>
+[plein écran](affectation_std.html)
